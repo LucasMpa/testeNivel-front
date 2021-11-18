@@ -27,7 +27,7 @@ Seu desafio é criar uma aplicação web para ajudar a controlar suas tarefas co
 
 ## Requisitos:
 - Sua página deve permitir que o usuário possa visualizar tarefas previamente cadastradas.
-- Sua página deve permitir que o usuário possa criar uma nova tarefa
+- Sua página deve permitir que o usuário possa cadastrar uma nova tarefa
 - Sua página deve permitir que o usuário possa editar uma tarefa previamente cadastrada.
 - Sua página deve permitir que o usuário possa excluir uma tarefa previamente cadastrada.
 
