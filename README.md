@@ -55,5 +55,5 @@ Roxo: #6841db<br>
 ## Tipo de fonte:
 - Montserrat
 
-## Imagens
+## Imagens:
 Utilize as imagens do <a target="_blank" href="https://undraw.co/illustrations">UnDraw</a>
