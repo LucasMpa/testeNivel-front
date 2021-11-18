@@ -20,6 +20,7 @@
 * [Dicas](#dicas)  
   * [Cores](#cores)
   * [Tipo de fonte](#tipo-de-fonte)
+  * [Imagens](#imagens)
 
 # Desafio
 Seu desafio é criar uma aplicação web para ajudar a controlar suas tarefas cotidianas.
@@ -53,3 +54,6 @@ Roxo: #6841db<br>
 
 ## Tipo de fonte:
 - Montserrat
+
+## Imagens
+Utilize as imagens do <a target="_blank" href="https://undraw.co/illustrations">UnDraw</a>
